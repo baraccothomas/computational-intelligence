@@ -2,5 +2,5 @@
 
 ## Structure
 ### Labs
-- Lab1: `labs/lab1`
-- Lab2: `labs/lab2`
+- Lab1 (set-covering with A*): `labs/lab1`
+- Lab2 (Nim game with EA strategy): `labs/lab2`
